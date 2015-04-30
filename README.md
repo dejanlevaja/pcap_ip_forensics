@@ -8,4 +8,4 @@ This tool extracts destination IP addresses from PCAP file and gets some basic i
 
 When asked, enter full path to the pcap file and that's it.
 
-![ip_forensics.py](/home/dejan/Pictures/ip_forensics.png  "ip_forensics.py")
+![ip_forensics.png](/home/dejan/Pictures/ip_forensics.png  "ip_forensics.png")
